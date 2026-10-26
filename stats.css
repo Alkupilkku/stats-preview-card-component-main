@@ -75,6 +75,7 @@
     .stats-info{
    gap: 1em;
     }
+     /*Smaller screen responsiveness */
 @media (max-width:767px){
        body{
         display: flex;
